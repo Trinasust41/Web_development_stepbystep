@@ -1,0 +1,26 @@
+.section1 {
+    background-image: url(../image/pic1.jpg);
+    color: aliceblue;
+    height: 40px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.section2 {
+    background-image: url(../image/pic2.jpeg);
+    height: 450;
+    background-size: cover;
+    background-position: left;
+    color: rgba(0, 0, 0, 0.966);
+    background-repeat: no-repeat;
+    font-size: 20px;
+    background-attachment: fixed;
+}
+
+.section3 {
+    background-color: rgb(223, 128, 90);
+    height: fit-content;
+    width: fit-content;
+    font-size: 30px;
+}
